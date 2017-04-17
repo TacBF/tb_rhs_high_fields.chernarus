@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_High_Fields">
+
+	<Key ID="STR_TB_missionTitle_TB_High_Fields">
+		<Original>High Fields</Original>
+		<English>High Fields</English>
+		<German>High Fields</German>
+		<Italian>High Fields</Italian>
+		<Spanish>High Fields</Spanish>
+		<French>High Fields</French>
+		<Czech>High Fields</Czech>
+		<Russian>High Fields</Russian>
+		<Polish>High Fields</Polish>
+		<Hungarian>High Fields</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_High_Fields">
+		<Original>TacBF A&amp;S[T-10]: High Fields</Original>
+		<English>TacBF A&amp;S[T-10]: High Fields</English>
+		<German>TacBF A&amp;S[T-10]: High Fields</German>
+		<Italian>TacBF A&amp;S[T-10]: High Fields</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: High Fields</Spanish>
+		<French>TacBF A&amp;S[T-10]: High Fields</French>
+		<Czech>TacBF A&amp;S[T-10]: High Fields</Czech>
+		<Russian>TacBF A&amp;S[T-10]: High Fields</Russian>
+		<Polish>TacBF A&amp;S[T-10]: High Fields</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: High Fields</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
